@@ -9,7 +9,7 @@ Type:
 Code Copyright
 
 Description:
-Aptiora is a web-based platform designed to .....
+Aptiora is an AI-powered aptitude learning and practice platform designed to help students and job aspirants improve their problem-solving, logical reasoning, and verbal ability skills. The platform provides interactive quizzes, gamified learning experiences, progress tracking, and AI-assisted guidance to make aptitude preparation more engaging, organized, and effective for placements, competitive exams, and interviews.
 
 Team Details:
 - Team Size: 3
